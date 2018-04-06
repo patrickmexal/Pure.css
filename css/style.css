@@ -373,5 +373,6 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 }
 .text-box-head, .text-box-subhead {
-    margin-left: 13%;
+   float: right;
+   clear: both;
 }
